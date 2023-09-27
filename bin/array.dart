@@ -4,5 +4,5 @@ void main() {
 
   var getName = nama[0];
   var usia = umur[0];
-  print("Nama Saya adalah $getName cantik" + " umur saya $usia Tahun");
+  print("Nama Saya adalah $getName " + " ganteng umur saya $usia Tahun");
 }
