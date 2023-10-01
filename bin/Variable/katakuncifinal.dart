@@ -1,10 +1,9 @@
 void main() {
   var firstName = 'Putri';
-   var final lastName = 'Setyowati';
 
   firstName = 'deni';
-  lastName = 'kurnia';
+  final lastName = 'kurnia';
 
-  print(firstName);
-  print(lastName);
+  print("$firstName");
+  print("$lastName");
 }
