@@ -1,4 +1,8 @@
 class Person {
+  String name = "guest"; //wajib di isi
+  String? address; // bersifat null
+  final String country = "Indonesia";
+
   Person(this.name, this.address) {}
 
   Person.withName(this.name) {}
